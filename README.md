@@ -3,8 +3,6 @@ Created By David Story
 <br></br>
 Version 1.0
 
-<i>Currently Under Construction</i> 
-
 ## General
 This is a program that can decode information hidden in a 16-bit .wav file.
 
